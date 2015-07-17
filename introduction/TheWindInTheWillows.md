@@ -9,4 +9,4 @@ TheWindInTheWillows的自我介绍
 **GitHub地址**： [github.com/TheWindInTheWillows](https://github.com/TheWindInTheWillows)
 
 
-简介： 爱好计算机，网络，篮球等。
+简介： 爱好计算机，网络和篮球等。
